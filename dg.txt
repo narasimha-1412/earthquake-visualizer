@@ -1,0 +1,22 @@
+earthquake-visualizer/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── EarthquakeMap.js
+│   │   ├── EarthquakeInfoPanel.js
+│   │   ├── FilterControls.js
+│   │   ├── StatsDashboard.js
+│   │   ├── LoadingSpinner.js
+│   │   └── ErrorBoundary.js
+│   ├── utils/
+│   │   ├── earthquakeUtils.js
+│   │   └── api.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── .env
+├── package.json
+├── tailwind.config.js
+└── README.md
